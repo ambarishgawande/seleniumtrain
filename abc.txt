@@ -1,2 +1,6 @@
 this is first file for my first repo.
 file name : abc.txt
+adding new line
+adding 3rd line before commiting.
+
+dfd
